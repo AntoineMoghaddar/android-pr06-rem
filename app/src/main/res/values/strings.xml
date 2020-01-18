@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">faker</string>
+    <string name="arm_left">Arm_left</string>
+    <string name="head">Head</string>
+    <string name="arm_right">Arm_right</string>
+    <string name="leg_left">leg_left</string>
+    <string name="leg_right">leg_right</string>
+    <string name="back">back</string>
+</resources>
